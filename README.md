@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Gyuni's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyuni)](https://github.com/anuraghazra/github-readme-stats)
+![Gyuni's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyuni&count_private=true&hide=stars&hide_rank=true&show_icons=true&custom_title=Gyuni&theme=nord&border_radius=15&title_color=ffffff)
+
 
 
 <!--
